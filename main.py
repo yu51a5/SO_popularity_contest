@@ -1,6 +1,10 @@
 from plot_pies import plot_pies
 
 ################################################################################################
+# first of all, use https://data.stackexchange.com/stackoverflow/query/1805782 to obtain the data.
+# then, upload the resulting csv file to this project.
+################################################################################################
+
 # filename is the name of the file that contains data
 # it has 4 columns: key_word, viewed, question, unanswered_question
 # it can be generated with https://data.stackexchange.com/stackoverflow/query/1805161

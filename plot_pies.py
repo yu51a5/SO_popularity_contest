@@ -1,13 +1,3 @@
-# https://stackoverflow.com/questions/62586521/stack-exchange-api-with-curl-command/62605055#62605055
-# https://hoffa.medium.com/finding-the-real-top-stack-overflow-questions-aebf35b095f1
-# https://stackoverflow.com/users/12671057/kelly-bundy
-# https://stackoverflow.com/questions/62763982/how-can-i-find-the-number-of-views-all-matlab-questions-have-received
-# https://data.stackexchange.com/stackoverflow/query/1805161
-
-#addon = "2.3/questions?tagged=stackexchange-api"
-#url = f"https://api.stackexchange.com/{addon}&site=stackoverflow&access_token={os.environ['access_token']}&key={os.environ['key']}"
-#print(requests.get(url).text)
-
 import os
 from datetime import datetime
 
